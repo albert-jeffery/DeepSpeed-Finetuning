@@ -1,5 +1,6 @@
 # DEEPSPEED-FINETUNING-TURIAL
 [**🌐English**](./README-en.md) ∙ [**📖简体中文**](./README.md)
+
 这个项目是一个友好的、零基础训练模板教程，代码中包含大量注释，详细介绍如何使用deepspeed进行finetuning，以及如何使用deepspeed进行分布式训练，介绍如何使用deepspeed进行模型训练。可以快速实现多种任务的微调和针对不同的模型，根据需求进行修改argparse参数或者源代码即可。该项目以文本总结数据集LCSTS: A Large-Scale Chinese Short Text Summarization Dataset为基础，微调一个针对中文文本总结的大模型。
 
 **文件目录如下：**
