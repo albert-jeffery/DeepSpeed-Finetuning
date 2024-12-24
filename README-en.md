@@ -7,7 +7,7 @@ This project is a friendly, zero-foundation training template tutorial, which in
 
 ```shell
 .
-├── 读我.md
+├── README.md
 ├── checkpoints
 ├── config
 │   └── dsconfig.json
@@ -19,7 +19,7 @@ This project is a friendly, zero-foundation training template tutorial, which in
 ├── fig
 │   └── estimate_memory.png
 ├── logs
-├── readme.md
+├── README-en.md
 ├── shell
 │   ├── run_multi_gpu_freeze.sh
 │   ├── run_multi_gpu_full-tuning.sh
