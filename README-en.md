@@ -2,7 +2,7 @@
 
 [**🌐English**](./README-en.md) ∙ [**📖简体中文**](./README.md)
 
-This project is a friendly, zero-foundation training template tutorial, which includes a large number of comments in the code to detail how to use DeepSpeed for fine-tuning, as well as how to use DeepSpeed for distributed training. It can quickly achieve fine-tuning for various tasks. The project is based on the text summarization dataset LCSTS: A Large-Scale Chinese Short Text Summarization Dataset, and fine-tunes a large model specifically for Chinese text summarization.
+This project is a friendly, zero-foundation training template tutorial, which includes a large number of comments in the code to detail how to use DeepSpeed for fine-tuning(includes LoRA, Adapter, Prefix-tuning, and so on), as well as how to use DeepSpeed for distributed training. It can quickly achieve fine-tuning for various tasks(e.g., GPT/BERT/Transformers/LLaMA/GLM series, etc.). The project is based on the text summarization dataset LCSTS: A Large-Scale Chinese Short Text Summarization Dataset, and fine-tunes a large model specifically for Chinese text summarization.
 **The file directory is as follows:**
 
 ```shell
