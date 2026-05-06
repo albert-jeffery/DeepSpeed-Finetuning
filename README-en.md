@@ -1,4 +1,4 @@
-# DEEPSPEED-FINETUNING-TURIAL
+# DEEPSPEED-FINETUNING-TUTORIAL
 
 [**🌐English**](./README-en.md) ∙ [**📖简体中文**](./README.md)
 
